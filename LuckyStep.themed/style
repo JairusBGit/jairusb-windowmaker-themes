@@ -1,0 +1,78 @@
+{
+  FrameBorderColor = "#000000";
+  FTitleColor = "#000000";
+  MenuTitleBack = (
+    tpixmap,
+    "rsz_1rsz_1rsz_5rsz_lucky_star_op_stage_background_8k_uhd_by_usantik_d9ot525-pre.png",
+    "#696969"
+  );
+  MenuDisabledColor = "#754119";
+  IconTitleBack = "#5a6066";
+  FTitleBack = (
+    cpixmap,
+    "rsz_1rsz_lucky_star_op_stage_background_8k_uhd_by_usantik_d9ot525-pre.png",
+    "#696969"
+  );
+  ClipTitleFont = "helvetica:pixelsize=11:weight=medium:slant=roman:xlfd=-*-helvetica-bold-r-normal-*-10-*-*-*-*-*-*-*";
+  ClipTitleColor = "#f5f5f5";
+  WaitCursor = (bitmap, dot_wait.xbm, dot_wait_mask.xbm);
+  FrameFocusedBorderColor = "#000000";
+  IconTitleFont = "helvetica:pixelsize=11:weight=medium:slant=roman:xlfd=-adobe-helvetica-medium-r-normal-*-10-*-*-*-p-*-iso10646-1";
+  HighlightColor = "#dc9718";
+  WindowTitleFont = "Quicksand:slant=0:weight=200:width=100:pixelsize=13";
+  MenuTextBack = (
+    tdgradient,
+    "lucky_star_op_stage_background_8k_uhd_by_usantik_d9ot525-pre.jpg",
+    103,
+    "#636363",
+    "#242424"
+  );
+  LargeDisplayFont = "helvetica:pixelsize=24:weight=bold:slant=roman:xlfd=-*-helvetica-bold-r-normal-*-24-*-*-*-*-*-*-*";
+  ResizeCursor = (bitmap, dot_resize.xbm, dot_resize_mask.xbm);
+  CClipTitleColor = "#808080";
+  MoveCursor = (bitmap, dot_move.xbm, dot_move_mask.xbm);
+  MenuStyle = flat;
+  ResizebarBack = (
+    tdgradient,
+    "lucky_star_op_stage_background_8k_uhd_by_usantik_d9ot525-pre.jpg",
+    76,
+    "#636363",
+    "#242424"
+  );
+  IconTitleColor = "#ffffff";
+  TitleJustify = left;
+  MenuTextColor = "#ffffff";
+  MenuTextExtendSpace = "-1";
+  PTitleBack = (
+    tdgradient,
+    "rsz_1rsz_lucky_star_op_stage_background_8k_uhd_by_usantik_d9ot525-pre.png",
+    103,
+    "#636363",
+    "#242424"
+  );
+  IconBack = (
+    tdgradient,
+    "lucky_star_op_stage_background_8k_uhd_by_usantik_d9ot525-pre.jpg",
+    103,
+    "#636363",
+    "#242424"
+  );
+  MenuTitleColor = "#ffffff";
+  UTitleColor = "#754119";
+  MenuTitleFont = "Quicksand:slant=0:weight=200:width=100:pixelsize=13";
+  UTitleBack = (
+    tdgradient,
+    "rsz_1rsz_lucky_star_op_stage_background_8k_uhd_by_usantik_d9ot525-pre.png",
+    103,
+    "#636363",
+    "#242424"
+  );
+  WindowTitleExtendSpace = "-1";
+  NormalCursor = (builtin, left_ptr);
+  PTitleColor = "#f4e046";
+  MenuTitleExtendSpace = "-1";
+  MenuTextFont = "Quicksand Medium:slant=0:weight=100:width=100:pixelsize=13";
+  WorkspaceBack = (cpixmap, "konata-izumi-background-hd-1680x1050-214365.jpg", "#333333");
+  FrameSelectedBorderColor = "#ffffff";
+  HighlightTextColor = "#f6f6f6";
+}
